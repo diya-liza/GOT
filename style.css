@@ -1,0 +1,91 @@
+
+body{
+	background: #4d4d4d;
+background: -moz-linear-gradient(left, #4d4d4d 0%, #595959 12%, #666666 25%, #474747 31%, #2b2b2b 50%, #000000 51%, #121212 60%, #2b2b2b 64%, #1c1c1c 82%, #121212 94%, #121212 100%);
+background: -webkit-gradient(left top, right top, color-stop(0%, #4d4d4d), color-stop(12%, #595959), color-stop(25%, #666666), color-stop(31%, #474747), color-stop(50%, #2b2b2b), color-stop(51%, #000000), color-stop(60%, #121212), color-stop(64%, #2b2b2b), color-stop(82%, #1c1c1c), color-stop(94%, #121212), color-stop(100%, #121212));
+background: -webkit-linear-gradient(left, #4d4d4d 0%, #595959 12%, #666666 25%, #474747 31%, #2b2b2b 50%, #000000 51%, #121212 60%, #2b2b2b 64%, #1c1c1c 82%, #121212 94%, #121212 100%);
+background: -o-linear-gradient(left, #4d4d4d 0%, #595959 12%, #666666 25%, #474747 31%, #2b2b2b 50%, #000000 51%, #121212 60%, #2b2b2b 64%, #1c1c1c 82%, #121212 94%, #121212 100%);
+background: -ms-linear-gradient(left, #4d4d4d 0%, #595959 12%, #666666 25%, #474747 31%, #2b2b2b 50%, #000000 51%, #121212 60%, #2b2b2b 64%, #1c1c1c 82%, #121212 94%, #121212 100%);
+background: linear-gradient(to right, #4d4d4d 0%, #595959 12%, #666666 25%, #474747 31%, #2b2b2b 50%, #000000 51%, #121212 60%, #2b2b2b 64%, #1c1c1c 82%, #121212 94%, #121212 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4d4d4d', endColorstr='#121212', GradientType=1 );
+
+}
+
+.container{
+		border:2px; 
+		background:#1a1a1a;
+		color:#e8eaed; 
+		font-family:sans-serif;
+		margin-left: 150px;
+		margin-right: 150px;
+		border-radius: 10px;
+		margin-top: 50px;
+		padding-bottom: 20px;
+
+	}
+
+	#got{
+
+		font-family: 'Philosopher', sans-serif;
+		font-size:130px;
+		color:#c1bbbb;
+}
+
+	#footer{
+		font-family: 'Philosopher', sans-serif;
+		font-size: 40px;
+		color: #949699;
+		opacity: 0.5;
+		padding: 10px;
+		margin-bottom: 10px;
+		text-align: center;
+	}
+
+	.my-img{
+		display:block;
+		margin:0 auto;
+		margin-bottom: 30px;
+		min-width: 1000px;
+	}
+
+	.log{
+		display: inline-block;
+		float: right;
+		margin-bottom: 10px;
+		margin-top: 70px;
+		margin-right: 30px;
+		border-radius: 50%;
+	}
+	.container h2{
+		font-family: 'Amiri', serif;
+
+	}
+
+	#choose{
+		padding-left:300px;
+		font-size: 20px;
+		font-family: 'Fira Sans Condensed', sans-serif;
+		opacity: 0.3;
+		color: #f4f9f9;
+		
+		
+	}
+
+	.house_images{
+		display:inline-block;
+		float: left;
+		margin-right: 10px;
+	}
+	.container p{
+		font-family: 'Fira Sans Condensed', sans-serif;
+		font-size: 20px;
+	}
+	#div1,#div2,#div3,#div4,#div5,#div6{
+		color:#f7f2f2;
+		background-color: #0a0909;
+		padding:10px;
+		
+			}
+
+
+	
